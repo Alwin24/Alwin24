@@ -9,7 +9,17 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"  />
+<img align="right" height="250" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif"  />
+
+###
+
+- 🔭 I’m currently working with [Doge Capital](https://github.com/Doge-Capital)
+
+- 🌱 I’m currently learning **Anchor framework**
+
+- 💬 Ask me about **Solana blockchain development**
+
+- 📫 How to reach me **alwin24012002@gmail.com**
 
 ###
 
@@ -52,8 +62,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/Alwin24/Alwin24/blob/output/snake.svg" alt="Snake animation" />
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ###
