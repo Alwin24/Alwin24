@@ -61,7 +61,3 @@
 </div>
 
 ###
-
-![Alwin's GitHub activity](https://github.com/Alwin24/snk/raw/output/github-contribution-grid-snake.svg)
-
-###
