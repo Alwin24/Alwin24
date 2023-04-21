@@ -28,13 +28,13 @@
 
 
 
-- 🔭 I’m currently working with [Doge Capital](https://github.com/Doge-Capital)
+- 🔭 I’m currently working with **[Doge Capital](https://github.com/Doge-Capital)**
 
 - 🌱 I’m currently learning **Anchor framework**
 
 - 💬 Ask me about **Solana blockchain development**
 
-- 🦾 Here are some of my [Projects](https://github.com/Alwin24/Projects-Overview)
+- 🦾 Here are some of my **[Projects](https://github.com/Alwin24/Projects-Overview)**
 
 - 📫 How to reach me **alwin24012002@gmail.com**
 
