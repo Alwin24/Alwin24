@@ -28,22 +28,20 @@
 
 
 
-- 🔭 I’m currently working with **[Doge Capital](https://github.com/Doge-Capital)**
-
-- 🌱 I’m currently learning **Anchor framework**
+- 🔭 I’m currently working with **[Merkel Labs](https://github.com/Alwin24/Alwin24/edit/main/README.md)**
 
 - 💬 Ask me about **Solana blockchain development**
 
 - 🦾 Here are some of my **[Projects](https://github.com/Alwin24/Projects-Overview)**
 
-- 📫 How to reach me **alwin24012002@gmail.com**
+- 📫 How to reach me **[Discord](https://discordapp.com/users/winster8016)**
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" width="42" alt="solidity logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" width="42" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" width="42" alt="rust logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
