@@ -8,7 +8,7 @@ Solana protocols (Jupiter, Raydium, Meteora). 15+ programs deployed
 to mainnet across DeFi, token launchpads, staking, and NFT systems.
 
 **Selected work:**
-- [`jup-dca`](https://github.com/Alwin24/jup-dca) — Permissionless
+- [`jupiter-dca`](https://github.com/Alwin24/jupiter-dca-program) — Permissionless
   DCA program with Jupiter v6 CPI. PDA-controlled vaults, off-chain
   keeper, balance-delta slippage enforcement.
 - [`streaming-stake`](https://github.com/Alwin24/streaming-stake) —
@@ -16,6 +16,8 @@ to mainnet across DeFi, token launchpads, staking, and NFT systems.
   with linear-vesting rewards. Token-2022 stake mint.
 
 More pinned below.
+
+**Ecosystem:** Member, [Superteam India](https://in.superteam.fun/).
 
 **Contact:**
 [LinkedIn](https://www.linkedin.com/in/alwin-helor24012002/) ·
