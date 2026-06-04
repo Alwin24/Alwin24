@@ -1,7 +1,7 @@
 ## Alwin Helor
 
 Solana smart contract engineer. 4+ years building production Anchor
-programs. Currently at [Merkle Labs](https://merkle-labs-url-here).
+programs. Currently at [Merkle Labs](https:///merklelabs.xyz).
 
 **Focus:** Anchor, Rust, Token-2022, CPI integrations with major
 Solana protocols (Jupiter, Raydium, Meteora). 15+ programs deployed
